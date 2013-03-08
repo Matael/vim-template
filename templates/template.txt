@@ -1,7 +1,7 @@
 %FFILE%
 
-:Author: %USER%
-:Email: %MAIL%
+:Author: Mathieu Gaborit (matael)
+:Email: mathieu@matael.org
 :Date: %FDATE%
 
 %HERE%
