@@ -1,4 +1,4 @@
---!/usr/bin/env ghci
+-- !/usr/bin/env ghci
 --
 -- %FFILE%
 -- Copyright (C) %YEAR% %USER% <%MAIL%>
