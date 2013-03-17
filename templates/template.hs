@@ -1,4 +1,4 @@
-#! /usr/bin/env runhugs +l
+--!/usr/bin/env ghci
 --
 -- %FFILE%
 -- Copyright (C) %YEAR% %USER% <%MAIL%>
