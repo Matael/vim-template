@@ -1,15 +1,12 @@
 /*
  * %FFILE%
  *
- * Copyright (C) %YEAR% Mathieu Gaborit (matael) <mathieu@matael.org>
- *
- *
  * Distributed under WTFPL terms
  *
  *            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
  *                    Version 2, December 2004
  *
- * Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+ * Copyright (C) %YEAR% Mathieu Gaborit (matael) <mathieu@matael.org>
  *
  * Everyone is permitted to copy and distribute verbatim or modified
  * copies of this license document, and changing it is allowed as long
